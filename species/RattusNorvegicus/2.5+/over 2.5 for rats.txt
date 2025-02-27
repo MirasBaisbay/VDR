@@ -1,0 +1,3 @@
+Total filtered structures found: 8
+
+['5XPP', '5H1E', '3VTD', '2ZXM', '5XUQ', '5AWK', '5ZWE', '3A2H']

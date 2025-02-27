@@ -1,0 +1,3 @@
+Total filtered structures found: 6
+
+['9EZ1', '9EZ2', '9GYA', '9GYJ', '4Q0A', '5MX7']

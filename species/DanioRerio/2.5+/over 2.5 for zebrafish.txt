@@ -1,0 +1,2 @@
+Total filtered structures found: 36
+['8PWD', '8PZ8', '8PZ6', '8PZ7', '8PZ9', '8PZB', '4IA2', '4IA3', '4IA7', '6T2M', '3O1E', '4RUO', '5LGA', '4G1D', '4G1Y', '4G1Z', '4G20', '4G21', '4G2H', '7BNS', '7BO6', '7ZFG', '7ZFX', '9EYR', '9FBF', '3DR1', '4RUP', '5NMA', '5NMB', '6FO7', '6FO9', '6FOB', '6FOD', '8P9W', '2HBH', '2HCD']

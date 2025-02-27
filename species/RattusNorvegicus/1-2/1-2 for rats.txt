@@ -1,0 +1,3 @@
+Total filtered structures found: 26
+
+['2ZL9', '3VT4', '3VT3', '5XPN', '3VTC', '5B41', '2ZMI', '2O4J', '2O4R', '2ZFX', '3VRV', '3VT7', '3W0G', '3W0H', '3W0I', '3W0J', '6K5O', '7C7W', '1RJK', '1RKG', '3VJS', '3W5P', '3W5Q', '3WT5', '3AUN', '7VQP']

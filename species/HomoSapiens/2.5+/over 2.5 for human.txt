@@ -1,0 +1,3 @@
+['8PWD', '8PZ8', '8PZ6', '8PZ7', '8PZ9', '8PZB', '4IA2', '4IA3', '4IA7', '6T2M', '1S0Z', '3O1E', '4RUO', '5LGA', '7QPI', '4G1D', '4G1Y', '4G1Z', '4G20', '4G21', '4G2H', '7BNS', '7BO6', '7ZFG', '7ZFX', '9EYR', '9FBF', '3A2I', '3A2J', '3AUQ', '3AX8', '3WWR', '4ITF', '3DR1', '4RUP', '5NMA', '5NMB', '6FO7', '6FO9', '6FOB', '6FOD', '8P9W', '5XPP', '5H1E', '5XUQ', '5AWK', '5ZWE', '2HBH', '2HCD', '3A2H']
+
+total of 50 structures

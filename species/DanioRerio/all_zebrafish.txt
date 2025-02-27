@@ -1,0 +1,3 @@
+Total filtered structures found: 73
+['8PWD', '8PWF', '8PWE', '8PWM', '6XZH', '6XZI', '6XZJ', '6XZK', '6XZV', '8PZ8', '8PZ6', '8PZ7', '8PZ9', '8PZB', '4IA1', '4IA2', '4IA3', '4IA7', '9GY8', '9EZ1', '9EZ2', '9GYA', '9GYC', '9GYJ', '9GYK', '6T2M', '7OXZ', '7OY4', '4Q0A', '3O1D', '3O1E', '4FHH', '4RUO', '5LGA', '8P9X', '7OXU', '4G1D', '4G1Y', '4G1Z', '4G20', '4G21', '4G2H', '5E7V', '5MX7', '5OW7', '7BNS', '7BNU', '7BO6', '7ZFG', '7ZFX', '8CK5', '9EYR', '9FBF', '3DR1', '4RUJ', '4RUP', '5NKY', '5NMA', '5NMB', '5OW9', '5OWD', '6FO7', '6FO8', '6FO9', '6FOB', '6FOD', '7B39', '8CKC', 
+'8P9W', '4FHI', '2HC4', '2HBH', '2HCD']

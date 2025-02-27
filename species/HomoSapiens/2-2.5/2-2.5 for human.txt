@@ -1,0 +1,3 @@
+['8PWF', '8PWE', '8PWM', '5V39', '4IA1', '9GY8', '9GYC', '9GYK', '7OXZ', '7OY4', '5XPL', '1S19', '2HB8', '3CS4', '5YSY', '5YT2', '3O1D', '4FHH', '8P9X', '7OXU', '5E7V', '5OW7', '7BNU', '8CK5', '3AUR', '3VHW', '3WGP', '3X31', '4ITE', '4RUJ', '5NKY', '5OW9', '5OWD', '6FO8', '7B39', '8CKC', '5XPM', '5XPO', '3WTQ', '5B5B', '4FHI', '2HC4', '5AWJ', '5GIC', '5GID', '5GIE', '5ZWF', '5ZWH', '5ZWI', '3VRT', '3VRU', '3VRW', '3WT7', '4YNK', '5XZF', '5XZH', '6JEZ', '7C7V', '1RK3', '1RKH', '3VJT', '3W5R', '3W5T', '3WT6']
+
+total of 64 structures
