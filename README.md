@@ -4,7 +4,7 @@ This repository contains the work of the VDR Analysis Team, focusing on the stru
 
 ## Project Overview
 
-The Vitamin D Receptor (VDR) is a member of the nuclear receptor family of transcription factors. It plays a crucial role in calcium homeostasis and bone metabolism by regulating the expression of target genes in response to vitamin D. Understanding the structure and function of VDR is essential for insights into various physiological processes and potential therapeutic interventions.
+The Vitamin D Receptor (VDR) is a member of the nuclear receptor family of transcription factors. It plays a crucial role in calcium homeostasis and bone metabolism by regulating the expression of target genes in response to vitamin D. Understanding the structure and function of VDR is essential for insights into various physiological processes and potential drug discovery
 
 ## Repository Contents
 
