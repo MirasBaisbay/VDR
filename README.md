@@ -12,7 +12,7 @@ The Vitamin D Receptor (VDR) is a member of the nuclear receptor family of trans
 - **secondary structure analysis/**: Includes analyses of the secondary structural elements of VDR.
 - **species/**: Data related to VDR sequences across different species.
 - **structures/**: 3D structural models and related files of VDR.
-- **BIOL363 StructBiol 2025 VDR analysis.pdf**: Comprehensive report on VDR analysis conducted in the BIOL363 Structural Biology course, 2025.
+- **BIOL363 StructBiol 2025 VDR analysis.pdf**: Overview of the project.
 - **overview.py**: Python script providing an overview of the VDR analysis.
 - **species.xlsx**: Spreadsheet detailing VDR sequences and related information across various species.
 - **versions.py**: Script tracking versions of tools and libraries used in the analysis.
