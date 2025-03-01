@@ -1,10 +1,7 @@
 # VDR Analysis Team
 
-This repository contains the work of the VDR Analysis Team, focusing on the structural and functional analysis of the Vitamin D Receptor (VDR).
-
-## Project Overview
-
-The Vitamin D Receptor (VDR) is a member of the nuclear receptor family of transcription factors. It plays a crucial role in calcium homeostasis and bone metabolism by regulating the expression of target genes in response to vitamin D. Understanding the structure and function of VDR is essential for insights into various physiological processes and potential drug discovery
+This repository contains the work of the VDR Analysis Team, focusing on the goals of analyzing and classifying all VDR structures to understand conformational variations and
+their relationship with ligands, using torsion angles and secondary structure analysis
 
 ## Repository Contents
 
