@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Meeting notes for 05/02:
 
 We need structure from rcsb of humans, zebrafish, vampire fish (sea lamprey), and rats.
@@ -21,6 +20,3 @@ Protein sequence:  observation from all organisms(fish should be with bones)
 #Code for pdb, percentage, code for phi/psi, omega angles, look through the code of pymol about phi/psi.
 
 
-=======
-# VDR
->>>>>>> 0b48fc0b6577b4e45b26f7feaa0c54338d486423
