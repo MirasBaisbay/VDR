@@ -1,0 +1,4 @@
+Secondary Structure Analysis for 1mbn
+Helix content: 77.12%
+Sheet content:  0.00%
+Loop content: 22.88%
